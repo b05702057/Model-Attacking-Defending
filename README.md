@@ -1,6 +1,6 @@
 # Model Attacking & Defending
 
-### A project that includes adversarial attacks and passive defense of a model
+### A project that includes adversarial attacks and passive defenses of a model
 
 ## Task
 Conduct the Fast Gradient Sign Method and the basic iterative method to attack a pre-trained model.  
